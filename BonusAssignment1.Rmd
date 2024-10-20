@@ -7,6 +7,7 @@ output: html_notebook
 # Initial commit comment.
 # Second commit comment.
 # Third commit comment.
+# Fourth commit comment, just in case.
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
